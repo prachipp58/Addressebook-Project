@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/32678232/README.1.md)
+
 # 📇 AddressBook — CLI Contact Manager in C
 
 A lightweight, file-persistent **Address Book application** written in pure C. Manage your contacts straight from the terminal — create, search, edit, delete, and list them, with built-in validation and automatic save/load to disk.
